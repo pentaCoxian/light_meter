@@ -1,0 +1,6 @@
+{
+    "board": "Seeeduino:samd:seeed_XIAO_m0",
+    "configuration": "usbstack=arduino,debug=off",
+    "port": "COM3",
+    "sketch": "light_meter.ino"
+}
